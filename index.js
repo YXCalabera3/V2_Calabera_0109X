@@ -58,7 +58,7 @@ function start(file) {
   p.on('message', data => {
     console.log('[RECEIVED]', data)
     switch (data) {
-      case 'reset':
+      case 'reset': 
         p.process.kill()
         isRunning = false
         start.apply(this, arguments)
