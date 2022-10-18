@@ -5,7 +5,7 @@ const { video, channel } = await youtubeSearch(text)
 let teks = [...video, ...channel].map(v => {
 switch (v.type) {
 case 'video': return `
-┌「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
+┌「𓈃ּ ៹🍏Chica Bot𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
 ├❏✨ *${v.title}* 
 ├❏🎈 (${v.url})
 ├❏⏳ *Duración:* ${v.durationH}
@@ -13,7 +13,7 @@ case 'video': return `
 ├❏👀 *Vistas:* ${v.view} 
 └────ׂ─ׂ─ׂ─ׂ───`.trim()
       case 'channel': return `
-┌「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
+┌「𓈃ּ ៹🍏Chica Bot𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
 ├❏✨ *${v.channelName}* 
 ├❏(${v.url})
 ├❏👥 *Subscriptores:* ${v.subscriberH} 
