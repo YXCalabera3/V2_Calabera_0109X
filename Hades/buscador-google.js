@@ -5,7 +5,7 @@ const fetch = (await import('node-fetch')).default
 let full = /f$/i.test(command)
 let text = args.join` `
 if (!text) return conn.reply(m.chat, `${mg}𝙀𝙎𝘾𝙍𝙄𝘽𝘼 𝙇𝙊 𝙌𝙐𝙀 𝙌𝙐𝙄𝙀𝙍𝙀 𝘽𝙐𝙎𝘾𝘼𝙍\n𝙀𝙅𝙀𝙈𝙋𝙇𝙊\n*${usedPrefix + command} hades*\n\n𝙏𝙔𝙋𝙀 𝙒𝙃𝘼𝙏 𝙔𝙊𝙐 𝙒𝘼𝙉𝙏 𝙏𝙊 𝙎𝙀𝘼𝙍𝘾𝙃 𝙁𝙊𝙍\n𝙀𝙓𝘼𝙈𝙋𝙇𝙀\n*${usedPrefix + command} Cat*`, m)
-let pp = 'https://i.imgur.com/lkch77g.jpg'
+let pp = 'https://imgur.com/ZrOq4nc.jpg'
 let url = 'https://google.com/search?q=' + encodeURIComponent(text)
 let search = await googleIt(text)
 let msg = search.articles.map(({

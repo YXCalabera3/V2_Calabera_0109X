@@ -2,7 +2,7 @@ import { createHash } from 'crypto'
 import PhoneNumber from 'awesome-phonenumber'
 import fetch from 'node-fetch'
 let handler = async (m, { conn, usedPrefix }) => {
-let pp = 'https://i.imgur.com/B5kR77F.jpg'
+let pp = 'https://imgur.com/ZrOq4nc.jpg'
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 try {
 pp = await conn.getProfilePicture(who)
@@ -14,7 +14,7 @@ let username = conn.getName(who)
 let prem = global.prems.includes(who.split`@`[0])
 let sn = createHash('md5').update(who).digest('hex')
 let str = `
-┌「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
+┌「𓈃ּ ៹🍏Chica𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
 ├❏👩‍🏫𝙽𝙾𝙼𝙱𝚁𝙴: ${username} ${registered ? '(' + name + ') ': ''}
 ├❏✨𝙽𝚄𝙼𝙴𝚁𝙾: ${PhoneNumber('+' + who.replace('@s.whatsapp.net', '')).getNumber('international')}
 ├❏🪀𝙻𝙸𝙽𝙺: wa.me/${who.split`@`[0]}${registered ? '\n├❏𝙴𝙳𝙰𝙳:* ' + age + ' años' : ''}

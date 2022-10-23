@@ -7,7 +7,7 @@ let texto1 = `
 ├❏๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚😀 este este tutorial de explica cómo tener cómo crear números virtuales 100% funcionable 🦈
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝚕 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁」
-├❏http://wa.me/5212411347465
+├❏http://wa.me/51926328073
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝙳𝙴𝚂𝙲𝙰𝚁𝙶𝙰 𝙳𝙴 𝙻𝙰 𝙰𝙿𝙻𝙸𝙲𝙰𝙲𝙸Ó𝙽
 」
@@ -23,14 +23,14 @@ let texto1 = `
 let buttonMessage= {
 'document': { url: `https://youtu.be/4eA5nDxPjOA` },
 'mimetype': `application/${document}`,
-'fileName': `🍀𝐓𝐇𝐄-𝐇𝐀𝐃𝐄𝐒-𝐁𝐎𝐓-𝐌𝐃✨`,
+'fileName': `🍀𝐓𝐇𝐄-CHICA-𝐁𝐎𝐓-𝐌𝐃✨`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/Yovanihades1212/HADES-BOT-MDV2.git',
+'mediaUrl': 'https://github.com/',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',

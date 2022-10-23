@@ -6,7 +6,7 @@ try {
 let res = await mediafiredl(args[0])
 let { url, url2, filename, ext, aploud, filesize, filesizeH } = res
 let caption = `
-┌「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
+┌「𓈃ּ ៹🍏Chica𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
 ├❏|❤|️${eg}
 ├❏|💎|𝙽𝙾𝙼𝙱𝚁𝙴: ${filename}
 ├❏|📥|𝙿𝙴𝚂𝙾: ${filesizeH}
@@ -19,7 +19,7 @@ contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: nul
 title: '𝙶𝙸𝚃𝙷𝚄𝙱',
 body: 'Super Bot WhatsApp',         
 previewType: 0, thumbnail: fs.readFileSync("./src/Menu2.jpg"),
-sourceUrl: `https://github.com/Yovanihades1212/HADES-BOT-MDV2.git`}}})
+sourceUrl: `https://github.com/-----------`}}})
   
 let info = `𝙈𝘼𝙔𝙊𝙍 𝘼 150 𝙈𝘽 𝙀𝙎 𝙋𝙊𝙎𝙄𝘽𝙇𝙀 𝙌𝙐𝙀 𝙉𝙊 𝙎𝙀 𝙀𝙉𝙑𝙄𝙀.
 

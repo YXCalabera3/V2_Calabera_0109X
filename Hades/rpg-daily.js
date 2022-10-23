@@ -7,7 +7,7 @@ let handler = async (m, { isPrems }) => {
 └────ׂ─ׂ─ׂ─ׂ───`
   global.db.data.users[m.sender].exp += isPrems ? prem : free
   m.reply(`
-┌──「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─
+┌──「𓈃ּ ៹🍏Calabera𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─
 ├❏🎁 *RECOMPENSA DIARIA*
 ├❏▢ *Has recibido:*
 ├❏🆙 *XP* : +${isPrems ? prem : free}

@@ -31,7 +31,7 @@ let top = `*🌈TOP 10 GAYS/LESBIANAS DEL GRUPO🌈*
 *_9.- ${user(i)}_*
 *_10.- ${user(j)}_*`
 //m.reply(top, null, {
-conn.sendHydrated(m.chat, top, wm, null, md, '❍͜͡➣𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓_𝐌𝐃❍͜͡➣', null, null, [
+conn.sendHydrated(m.chat, top, wm, null, md, '❍͜͡➣CHICA_𝐁𝐎𝐓_𝐌𝐃❍͜͡➣', null, null, [
 ['𝙊𝙩𝙧𝙖 𝙫𝙚𝙯 | 𝘼𝙜𝙖𝙞𝙣 🔮', `${usedPrefix + command}`],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪', '/menu']
 ], m, null, {
@@ -58,7 +58,7 @@ let top = `*🌸 TOP 10 OTAKUS DEL GRUPO 🌸*
 *_9.- ${user(i)}_*
 *_10.- ${user(j)}_*`
 //m.reply(top, null, {
-conn.sendHydrated(m.chat, top, wm, null, md, '❍͜͡➣𝐇𝐀𝐃𝐄𝐒_𝐁𝐎𝐓_𝐌𝐃❍͜͡➣', null, null, [
+conn.sendHydrated(m.chat, top, wm, null, md, '❍͜͡➣CHICA_𝐁𝐎𝐓_𝐌𝐃❍͜͡➣', null, null, [
 ['𝙊𝙩𝙧𝙖 𝙫𝙚𝙯 | 𝘼𝙜𝙖𝙞𝙣 🔮', `${usedPrefix + command}`],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪️', '/menu']
 ], m, null, {

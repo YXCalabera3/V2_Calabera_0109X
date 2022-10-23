@@ -6,14 +6,14 @@ let texto1 = `🌱Hola Te quieres divertir en un juego te invito a descargarte M
 let buttonMessage= {
 'document': { url: `https://youtu.be/4eA5nDxPjOA` },
 'mimetype': `application/${document}`,
-'fileName': `🍀𝐓𝐇𝐄-𝐇𝐀𝐃𝐄𝐒-𝐁𝐎𝐓-𝐌𝐃✨`,
+'fileName': `🍀𝐓𝐇𝐄-CALABERA-𝐁𝐎𝐓-𝐌𝐃✨`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/Yovanihades1212/HADES-BOT-MDV2.git',
+'mediaUrl': 'https://github.com/-------------------',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',

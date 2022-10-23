@@ -2,7 +2,7 @@ import fetch from 'node-fetch'
 let handler  = async (m, { conn, usedPrefix, command }) => {
 {await m.reply('⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱')}
 if (!db.data.chats[m.chat].modohorny && m.isGroup) throw '*[❗𝐈𝐍𝐅𝐎❗] 𝙻𝙾𝚂 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 +𝟷𝟾 𝙴𝚂𝚃𝙰𝙽 𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰𝙳𝙾𝚂 𝙴𝙽 𝙴𝚂𝚃𝙴 𝙶𝚁𝚄𝙿𝙾, 𝚂𝙸 𝙴𝚂 𝙰𝙳𝙼𝙸𝙽 𝚈 𝙳𝙴𝚂𝙴𝙰 𝙰𝙲𝚃𝙸𝚅𝙰𝚁𝙻𝙾𝚂 𝚄𝚂𝙴 𝙴𝙻 𝙲𝙾𝙼𝙰𝙽𝙳𝙾 #enable modohorny*'
-let fgif = { key: {participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "5212411347465-5212411719888@g.us" } : {})},message: {"videoMessage": { "title":`𝙾𝚏𝚌 𝚈𝚘𝚟𝚊𝚗𝚒`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `𝚃𝙷𝙴-𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙼𝙳`, 'jpegThumbnail': false }}}
+let fgif = { key: {participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "5212411347465-5212411719888@g.us" } : {})},message: {"videoMessage": { "title":`𝙾𝚏𝚌 𝚈𝚘𝚟𝚊𝚗𝚒`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `𝚃𝙷𝙴-CHICA-𝙱𝙾𝚃-𝙼𝙳`, 'jpegThumbnail': false }}}
 let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 let user = global.db.data.users[who]
 let name = await conn.getName[who]

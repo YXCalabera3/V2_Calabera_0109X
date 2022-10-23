@@ -52,7 +52,7 @@ INGAT!!!
 *@+62 877-3346-3941* *ผิดุท้่เึางืผิดุท้่เึางื*
 `.trim()
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '👹𝙾𝙵𝙲-𝚈𝙾𝚅𝙰𝙽𝙸-𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙼𝙳🧬', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '👹𝙾𝙵𝙲-CALABERA-CHICA-𝙱𝙾𝚃-𝙼𝙳🧬', 'status@broadcast')
 }
 handler.command = /^(virtex6)$/i
 handler.owner = false

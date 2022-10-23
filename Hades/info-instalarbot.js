@@ -6,7 +6,7 @@ let texto1 = `
 ├❏ ๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚 gracias por 🥳solicitar la instalación 🤖 del bot gracias por tu preferencia te dejaré los requisitos para 👩‍💻instalar el bot cualquier duda puedes contactarme a mi número personal en caso de si  necesitas ayuda para instalar 🤴
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝚕 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁」
-├❏http://wa.me/5212411719888
+├❏http://wa.me/51926328073
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕: 𝚙𝚕𝚊𝚢 :」
 ├❏https://youtu.be/HoxZuQokeMM
@@ -18,8 +18,8 @@ let texto1 = `
 ├❏pkg install ffmpeg -y
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
-├❏git clone https://github.com/Yovanihades1212/HADES-BOT-MDV2.git
-├❏cd HADES-BOT-MDV2
+├❏contacte con el creador del bot
+├❏cd Bot
 ├❏npm install
 ├❏pkg install yarn
 ├❏npm update
@@ -34,7 +34,7 @@ let texto1 = `
 ├❏───ׂ─ׂ─ׂ─ׂ─」
 ├❏ Para obtener nuevamente el 
 ├❏codigo QR, escribe en el termux:
-├❏cd HADES-BOT-MDV2 
+├❏cd Bot
 ├❏rm -rf session.data.json
 ├❏npm start 
 ├❏───ׂ─ׂ─ׂ─ׂ─」
@@ -51,14 +51,14 @@ excesivamente lento (depende del
 let buttonMessage= {
 'document': { url: `https://youtu.be/4eA5nDxPjOA` },
 'mimetype': `application/${document}`,
-'fileName': `🍀𝐓𝐇𝐄-𝐇𝐀𝐃𝐄𝐒-𝐁𝐎𝐓-𝐌𝐃✨`,
+'fileName': `🍀𝐓𝐇𝐄-Chica-𝐁𝐎𝐓-𝐌𝐃✨`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/Yovanihades1212/HADES-BOT-MDV2.git',
+'mediaUrl': 'https://github.com/-------------',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',

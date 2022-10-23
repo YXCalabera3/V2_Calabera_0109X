@@ -9,19 +9,16 @@ let texto1 = `
 ├❏https://youtu.be/Gn-ESCcdFGw
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝚕 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁」
-├❏http://wa.me/5212411347465
+├❏http://wa.me/51926328073
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝚁𝙴𝙲𝙾𝙼𝙴𝙽𝙳𝙰𝙳𝙾 」
 ├❏https://www.mediafire.com/file/o80pni1rfi0n6zz/ʙᴜsͨɪͧɴᷨᴇͣs๋ᷡsͦ_V6_PRIMARIO.apk/file
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝚁𝙴𝙲𝙾𝙼𝙴𝙽𝙳𝙰𝙳𝙾 」
 ├❏https://www.mediafire.com/file/4kkiwpxvciabjf5/ʙᴜsͨɪͧɴᷨᴇͣs๋ᷡsͦ_V6_SECUNDARIO.apk/file
-└────ׂ─ׂ─ׂ─ׂ───
-┌「𝙿𝙰𝙶𝙸𝙽𝙰 𝙳𝙴 𝙱𝙾𝚇𝙼𝚄𝙽𝙴𝚆𝙾𝚁𝙻𝙳」
-├❏https://dash.boxmineworld.com/register?ref=Mb0BN5ny
-└────ׂ─ׂ─ׂ─ׂ───
+└────ׂ─ׂ─ׂ─ׂ──-
 ┌「𝙶𝙸𝚃 𝙲𝙻𝙾𝙽𝙴」
-├❏git clone https://github.com/Yovanihades1212/HADES-BOT-MDV2.git
+├❏Contacte con mi creador para mas información
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝚃𝙴𝚁𝙼𝚄𝚇」
 ├❏https://www.mediafire.com/file/190g4b86nhyof7b/com.termux_118.apk/file?dkey=wfddtbi5jtj98
@@ -30,14 +27,14 @@ let texto1 = `
 let buttonMessage= {
 'document': { url: `https://youtu.be/4eA5nDxPjOA` },
 'mimetype': `application/${document}`,
-'fileName': `🍀𝐓𝐇𝐄-𝐇𝐀𝐃𝐄𝐒-𝐁𝐎𝐓-𝐌𝐃✨`,
+'fileName': `🍀𝐓𝐇𝐄-Chica-𝐁𝐎𝐓-𝐌𝐃✨`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/Yovanihades1212/HADES-BOT-MDV2.git',
+'mediaUrl': 'https://github.com/----------------------',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',

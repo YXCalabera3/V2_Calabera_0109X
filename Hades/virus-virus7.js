@@ -1148,7 +1148,7 @@ https://chat.whatsapp.com/CJsG9nH8rHV9XSUhOhapoN
 442327 *๑๑ภᏎ๒ฆ๗ฅฬ
 `.trim()
 
-conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '👹𝙾𝙵𝙲-𝚈𝙾𝚅𝙰𝙽𝙸-𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙼𝙳🧬', 'status@broadcast')
+conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '👹𝙾𝙵𝙲-CALABERA-CHICA-𝙱𝙾𝚃-𝙼𝙳🧬', 'status@broadcast')
 }
 handler.command = /^(virtex7)$/i
 handler.owner = false

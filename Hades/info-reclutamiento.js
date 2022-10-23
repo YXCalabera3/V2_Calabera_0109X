@@ -2,7 +2,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let texto1 = `
-┌「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
+┌「𓈃ּ ៹🍏CHICA𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
 ├❏ ☠︎︎⃟ࣩࣧ⸸₂₀ᷳ₂ᷫяєνєℓα¢ιÓи➣⃘⃕͜⃟⃤꙰.
 ├❏ hola bien Bienvenid@s 
 ├❏ ☠︎︎⃟ࣩࣧ⸸₂₀ᷳ₂ᷫяєνєℓα¢ιÓи➣⃘⃕͜⃟⃤꙰.
@@ -50,25 +50,25 @@ let texto1 = `
 ├❏ ☠︎︎⃟ࣩࣧ⸸₂₀ᷳ₂ᷫ яєνєℓα¢ιÓи➣⃘⃕͜⃟⃤꙰.
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「☠︎︎⃟ࣩࣧ⸸₂₀ᷳ₂ᷫяєνєℓα¢ιÓи➣⃘⃕͜⃟⃤꙰.」
-https://chat.whatsapp.com/LGvb0X9GJM0LXE6yvWIE6x
+https://chat.whatsapp.com/---------------
 └────ׂ─ׂ─ׂ─ׂ───`
 let buttonMessage= {
 'document': { url: `https://youtu.be/4eA5nDxPjOA` },
 'mimetype': `application/${document}`,
-'fileName': `🍀𝐓𝐇𝐄-𝐇𝐀𝐃𝐄𝐒-𝐁𝐎𝐓-𝐌𝐃✨`,
+'fileName': `🍀𝐓𝐇𝐄-CHICA-𝐁𝐎𝐓-𝐌𝐃✨`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
 'forwardingScore': 200,
 'isForwarded': true,
 'externalAdReply': {
-'mediaUrl': 'https://github.com/Yovanihades1212/HADES-BOT-MDV2.git',
+'mediaUrl': 'https://github.com/-----------------------',
 'mediaType': 2,
 'previewType': 'pdf',
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
 'body': wm,
 'thumbnail': imagen1,
-'sourceUrl': 'https://youtu.be/4eA5nDxPjOA' }},
+'sourceUrl': 'https://youtu.be/---------------------' }},
 'caption': texto1,
 'footer': wm,
 'buttons':[

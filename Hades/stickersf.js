@@ -4,7 +4,7 @@ let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text }) =
 try {
 let vn = './media/menu.mp3'
 let pp = './src/Me.jpg'
-let img = await(await fetch('https://i.imgur.com/lkch77g.jpg')).buffer()
+let img = await(await fetch('https://imgur.com/ZrOq4nc.jpg')).buffer()
 let d = new Date(new Date + 3600000)
 let locale = 'es'
 let week = d.toLocaleDateString(locale, { weekday: 'long' })
@@ -16,7 +16,7 @@ let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
-┌「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
+┌「𓈃ּ ៹🍏Chica𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
 ├❏ ๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ ${taguser}💖✨ 
 ├❏ 📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}
 ├❏ 🔋𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}
@@ -52,7 +52,7 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title: '🍀𝐓𝐇𝐄-𝐇𝐀𝐃𝐄𝐒-𝐁𝐎𝐓-𝐌𝐃✨',
+title: '🍀𝐓𝐇𝐄-CALABERA-𝐁𝐎𝐓-𝐌𝐃✨',
 body: null,
 thumbnail: img,
 sourceUrl: `https://youtu.be/HoxZuQokeMM`

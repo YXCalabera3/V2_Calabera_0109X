@@ -14,13 +14,13 @@ const groups = chats.filter(([id]) => id.endsWith('@g.us'))
 const used = process.memoryUsage()
 const { restrict } = global.db.data.settings[conn.user.jid] || {}
 const { autoread } = global.opts
-let pp = 'https://i.imgur.com/lkch77g.jpeg'
+let pp = 'https://imgur.com/ZrOq4nc.jpg'
 let old = performance.now()
 let neww = performance.now()
 let speed = neww - old
 
 let info = `
-┌──「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─
+┌──「𓈃ּ ៹🍏Chica𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─
 ├❏𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓
 ├❏ [🤴🏻] 𝙲𝚁𝙴𝙰𝙳𝙾𝚁: YOVANI 
 ├❏ [#️⃣] 𝙽𝙾° 𝙳𝙴𝙻 𝙲𝚁𝙴𝙰𝙳𝙾𝚁:
@@ -40,7 +40,7 @@ let info = `
 ├❏[❗] 𝚁𝙴𝚂𝚃𝚁𝙸𝙲𝚃: ${restrict ? '*𝚊𝚌𝚝𝚒𝚟𝚊𝚍𝚘*' : '*𝚍𝚎𝚜𝚊𝚌𝚝𝚒𝚟𝚊𝚍𝚘*'} 
 └────ׂ─ׂ─ׂ─ׂ───`.trim()
 
-conn.sendHydrated(m.chat, info, wm, pp, 'https://github.com/Yovanihades1212/HADES-BOT-MDV2.git', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, info, wm, pp, 'https://github.com/--Contacte con el creador para el repositorio', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['𝐌𝐄𝐍𝐔', '#menu'],
 ['𝐄𝐒𝐓𝐀𝐃𝐎', '.estado']
 ], m,)

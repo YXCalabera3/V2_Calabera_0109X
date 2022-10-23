@@ -7,9 +7,9 @@ if (!args || !args[0]) throw '*[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝚂𝙴𝚁𝚃
 conn.reply(m.chat, `⌛ _Cargando...\n▰▰▰▱▱▱▱▱▱`, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: '𝚁𝙴𝙿𝚁𝙾𝙳𝚄𝙲𝚃𝙾𝚁 𝙳𝙴 𝚅𝙸𝙳𝙴𝙾 𝚅𝟸',
-body: '𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ',         
+body: '𓈃ּ ៹🍏Chica𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ',         
 previewType: 0, thumbnail: fs.readFileSync("./src/admins.jpg"),
-sourceUrl: `https://github.com/Yovanihades1212/HADES-BOT-MDV2.gi`}}})
+sourceUrl: `https://github.com/------------`}}})
 let chat = global.db.data.chats[m.chat]
 const isY = /y(es)/gi.test(args[1])
 const { thumbnail, video: _video, title } = await youtubedl(args[0]).catch(async _ => await youtubedlv2(args[0])).catch(async _ => await youtubedlv3(args[0]))

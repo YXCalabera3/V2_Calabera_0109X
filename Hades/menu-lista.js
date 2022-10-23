@@ -103,7 +103,7 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let name = await conn.getName(m.sender)
 const listMessage = {
 text: `
-┌「𓈃ּ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
+┌「𓈃ּ៹🍏Chica𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」
 ├❏${ucapan()}
 ├❏๖ۣۜۜ͜͡𝙷𝙾𝙻𝙰✨${name}💖 
 ├❏──────

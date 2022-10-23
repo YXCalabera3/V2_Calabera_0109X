@@ -8,7 +8,7 @@ let user = global.db.data.users[m.sender]
     if (!canLevelUp(user.level, user.exp, global.multiplier)) {
         let { min, xp, max } = xpRange(user.level, global.multiplier)
         throw `
-┌──「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─
+┌──「𓈃ּ ៹🍏Chica𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─
 ├❏๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ 💖✨
 ├❏NIVEL
 ├❏▢ Nombre : *${name}*
@@ -22,7 +22,7 @@ let user = global.db.data.users[m.sender]
     if (before !== user.level) {
         let teks = `Bien hecho! ${conn.getName(m.sender)} Nivel: ${user.level}`
         let str = `
-┌──「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─
+┌──「𓈃ּ ៹🍏Calabera𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─
 ├❏๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚ঔৣֳ᷌᷈͜͡ 💖✨
 ├❏๖LEVEL UP*
 ├❏๖Nivel anterior : *${before}*
@@ -31,7 +31,7 @@ let user = global.db.data.users[m.sender]
 └────ׂ─ׂ─ׂ─ׂ───`.trim()
         try {
             const img = await levelup(teks, user.level)
-            conn.sendFile(m.chat, img, 'https://i.imgur.com/AYfkKZB.jpeg', str, m)
+            conn.sendFile(m.chat, img, 'https://imgur.com/ZrOq4nc.jpg', str, m)
         } catch (e) {
             m.reply(str)
         }
