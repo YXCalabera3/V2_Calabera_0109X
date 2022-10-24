@@ -673,7 +673,7 @@ const buttons = [
 {buttonId: `#menu`, buttonText: {displayText: '𝙼𝙴𝙽𝚄'}, type: 1}, ]
 let buttonMessage = {
 document: imagen3, 
-fileName: `ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩ CALABERA`, 
+fileName: `ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩`, 
 mimetype: `application/${document}`,
 jpegThumbnail: imagen3,
 caption: text,
@@ -693,7 +693,7 @@ contextInfo: {
 "previewType": "VIDEO",
 "thumbnail": apii.data,
 "mediaUrl": 'https://youtu.be/HoxZuQokeMM',
-"sourceUrl": 'Canservero Pensando en ti' }}} 
+"sourceUrl": 'https://www.pornhub.com' }}} 
 this.sendMessage(id, buttonMessage, fake)                          
 }}}
             break
