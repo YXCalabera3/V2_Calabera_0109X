@@ -9,7 +9,7 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /buenas tardes|Buenas tardes|boatarde|Boatarde/
+handler.customPrefix = /buenas tardes|Buenas tardes|Buenas Tardes|buenas tardes|buenas tarde|boatarde|Boatarde/
 handler.command = new RegExp
 
 export default handler
