@@ -16,17 +16,17 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('HADES_BOT_MD\nYOVANI\nHADES_BOT_MD', {
+say('CHICA_BOT_MD\nCALABERA\nCHICA_BOT_MD', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP HADES_BOT
+say(`EL MEJOR BOT DE WHATSAPP 2022 LA MEJOR CALIDAD Y SERVICIO DE WHATSAPP CHICA_BOT
 |< ================================================== >|
 [•]-SERVIDOR : PRIVADO
 [•]-BOT VERSION : 10.8.9
 [•]-ESTADO : ACTIVO
-[•]-Owner : YOVANI
+[•]-Owner : CHICA BOT -  CALABERA MALDITA
 [•]-GRACIAS POR USAR EL BOT DE LA CALABERA
 [•]-SUBSCRIBETE AL CANAL YOUTUBE DE LA CALABERA
 [•]-CERRADO EL BOT CALABERA
