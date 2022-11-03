@@ -9,7 +9,7 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /Feliz navidad|feliz navidad/
+handler.customPrefix = /Feliz navidad|feliz navidad|Feli Navidad|feliz navidad hijo|Feliz navidad hijo|feliz navidad amigo|Feliz navidad amigo/
 handler.command = new RegExp
 
 export default handler
