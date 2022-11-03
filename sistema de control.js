@@ -692,7 +692,7 @@ contextInfo: {
 "mediaType": 2, 
 "previewType": "VIDEO",
 "thumbnail": apii.data,
-"mediaUrl": 'https://youtu.be/HoxZuQokeMM',
+"mediaUrl": 'https://www.youtube.com',
 "sourceUrl": 'https://www.youtube.com' }}} 
 this.sendMessage(id, buttonMessage, fake)                          
 }}}
