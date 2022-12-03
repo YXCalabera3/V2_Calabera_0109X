@@ -94,7 +94,7 @@ mediaUrl: null,
 title: '🍀𝐓𝐇𝐄-CHICA-𝐁𝐎𝐓-𝐌𝐃✨',
 body: null,
 thumbnail: img,
-sourceUrl: `https://youtu.be/HoxZuQokeMM`
+sourceUrl: `https://www.youtube.com/@informaticsecurity5309`
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})

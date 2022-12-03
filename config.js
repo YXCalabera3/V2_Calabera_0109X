@@ -85,7 +85,7 @@ global.version = vs
 global.gt = '𓈃ּ ៹🍏Chica Bot𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ'
 global.hadesbot = gt
 
-global.yt = 'https://youtu.be/aPu9wQi-z8U'
+global.yt = 'https://www.youtube.com/@informaticsecurity5309'
 global.youtube = yt
 
 global.ig = 'https://www.instagram'
@@ -100,7 +100,7 @@ global.nngrupo = nn
 global.nnn = 'https://chat.whatsapp.com/----------------'
 global.nnngrupo = nnn
 
-global.paypal = 'https://pay'
+global.paypal = 'romansystem.3786@gmail.com'
 global.donar = paypal
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ

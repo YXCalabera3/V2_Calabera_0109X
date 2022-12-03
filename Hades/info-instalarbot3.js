@@ -6,7 +6,7 @@ let texto1 = `
 ├❏ ๖ۣ☘️𝐇𝐨𝐥𝐚😀 este este tutorial de explica cómo tener un bot activo🍁 24/7👌 en acidicnodes🍃 Si te ha gustado el video No olvides suscribirte dejar tu like🌱
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕: 𝚙𝚕𝚊𝚢 :」
-├❏https://youtu.be/4eA5nDxPjOA
+├❏https://www.youtube.com/@informaticsecurity5309
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝚕 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁」
 ├❏http://wa.me/51926328073
@@ -19,7 +19,7 @@ http://whatsapp.acidicnodes.com
 └────ׂ─  
 `
 let buttonMessage= {
-'document': { url: `https://youtu.be/4eA5nDxPjOA` },
+'document': { url: `https://www.youtube.com/@informaticsecurity5309` },
 'mimetype': `application/${document}`,
 'fileName': `🍀𝐓𝐇𝐄-Chica-𝐁𝐎𝐓-𝐌𝐃✨`,
 'fileLength': 99999999999999,
@@ -34,7 +34,7 @@ let buttonMessage= {
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
 'body': wm,
 'thumbnail': imagen1,
-'sourceUrl': 'https://youtu.be/4eA5nDxPjOA' }},
+'sourceUrl': 'https://www.youtube.com/@informaticsecurity5309' }},
 'caption': texto1,
 'footer': wm,
 'buttons':[

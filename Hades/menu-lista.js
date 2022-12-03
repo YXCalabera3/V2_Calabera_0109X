@@ -111,7 +111,7 @@ text: `
 ├❏${rtotalreg}
 ├❏☘️𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾:
 ├❏${uptime}
-├❏𝚅𝙴𝚁𝚂𝙸𝙾𝙽:3 𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃
+├❏𝚅𝙴𝚁𝚂𝙸𝙾𝙽:3 CHICA-𝙱𝙾𝚃
 └────ׂ`, footer: `${wm}`, //${name} ${ucapan()}
 title: null,
 buttonText: "𝐒𝐄𝐋𝐄𝐂𝐂𝐈𝐎𝐍𝐄 𝐀𝐐𝐔𝐢", 

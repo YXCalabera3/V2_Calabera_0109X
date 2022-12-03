@@ -25,7 +25,7 @@ let texto1 = `
 └────ׂ─ׂ─ׂ─ׂ───
 `
 let buttonMessage= {
-'document': { url: `https://youtu.be/4eA5nDxPjOA` },
+'document': { url: `https://www.youtube.com/@informaticsecurity5309` },
 'mimetype': `application/${document}`,
 'fileName': `🍀𝐓𝐇𝐄-Chica-𝐁𝐎𝐓-𝐌𝐃✨`,
 'fileLength': 99999999999999,
@@ -40,7 +40,7 @@ let buttonMessage= {
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
 'body': wm,
 'thumbnail': imagen1,
-'sourceUrl': 'https://youtu.be/4eA5nDxPjOA' }},
+'sourceUrl': 'https://www.youtube.com/@informaticsecurity5309' }},
 'caption': texto1,
 'footer': wm,
 'buttons':[

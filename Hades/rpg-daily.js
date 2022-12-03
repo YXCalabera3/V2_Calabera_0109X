@@ -3,7 +3,7 @@ const prem = 20000
 
 let handler = async (m, { isPrems }) => {
   let time = global.db.data.users[m.sender].lastclaim + 86400000
-  if (new Date - global.db.data.users[m.sender].lastclaim < 86400000) throw `┌──「𓈃ּ ៹🍏𝑯𝒂𝒅𝒆𝒔𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─\n ├❏ 🎁 *Ya recogiste tu recompensa diaria\n├❏🕚 Vuelve en${msToTime(time - new Date())}*
+  if (new Date - global.db.data.users[m.sender].lastclaim < 86400000) throw `┌──「𓈃ּ ៹🍏CHICA𐂂!s⁹⁷☻‹𝟹♞ᵇᵒᵗ⁻ᴹᴰ」─\n ├❏ 🎁 *Ya recogiste tu recompensa diaria\n├❏🕚 Vuelve en${msToTime(time - new Date())}*
 └────ׂ─ׂ─ׂ─ׂ───`
   global.db.data.users[m.sender].exp += isPrems ? prem : free
   m.reply(`

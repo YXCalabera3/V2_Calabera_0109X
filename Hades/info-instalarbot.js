@@ -9,13 +9,13 @@ let texto1 = `
 ├❏http://wa.me/51926328073
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕: 𝚙𝚕𝚊𝚢 :」
-├❏https://youtu.be/HoxZuQokeMM
+├❏https://www.youtube.com/@informaticsecurity5309
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇」
 ├❏pkg update && pkg upgrade
 ├❏pkg install git -y
 ├❏pkg install nodejs -y
-├❏pkg install ffmpeg -y
+├❏pkg install ffmpeg -yzzz
 ├❏pkg install imagemagick -y
 ├❏termux-setup-storage
 ├❏contacte con el creador del bot
@@ -49,7 +49,7 @@ excesivamente lento (depende del
 └────ׂ─ׂ─ׂ─ׂ───
 `
 let buttonMessage= {
-'document': { url: `https://youtu.be/4eA5nDxPjOA` },
+'document': { url: `https://www.youtube.com/@informaticsecurity5309` },
 'mimetype': `application/${document}`,
 'fileName': `🍀𝐓𝐇𝐄-Chica-𝐁𝐎𝐓-𝐌𝐃✨`,
 'fileLength': 99999999999999,
@@ -64,7 +64,7 @@ let buttonMessage= {
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
 'body': wm,
 'thumbnail': imagen1,
-'sourceUrl': 'https://youtu.be/4eA5nDxPjOA' }},
+'sourceUrl': 'https://www.youtube.com/@informaticsecurity5309' }},
 'caption': texto1,
 'footer': wm,
 'buttons':[

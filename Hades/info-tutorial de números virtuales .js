@@ -3,7 +3,7 @@ var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.present
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let texto1 = `
 ┌「𝚗ú𝚖𝚎𝚛𝚘𝚜 𝚟𝚒𝚛𝚝𝚞𝚊𝚕𝚎𝚜」
-├❏https://youtu.be/1gkrimnxKBg
+├❏https://www.youtube.com/@informaticsecurity5309
 ├❏๖ۣۜۜ͜͡𝐇𝐨𝐥𝐚😀 este este tutorial de explica cómo tener cómo crear números virtuales 100% funcionable 🦈
 └────ׂ─ׂ─ׂ─ׂ───
 ┌「𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝚕 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁」
@@ -21,7 +21,7 @@ let texto1 = `
 └────ׂ─ׂ─ׂ─ׂ───
 `
 let buttonMessage= {
-'document': { url: `https://youtu.be/4eA5nDxPjOA` },
+'document': { url: `https://www.youtube.com/@informaticsecurity5309` },
 'mimetype': `application/${document}`,
 'fileName': `🍀𝐓𝐇𝐄-CHICA-𝐁𝐎𝐓-𝐌𝐃✨`,
 'fileLength': 99999999999999,
@@ -36,7 +36,7 @@ let buttonMessage= {
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
 'body': wm,
 'thumbnail': imagen1,
-'sourceUrl': 'https://youtu.be/4eA5nDxPjOA' }},
+'sourceUrl': 'https://www.youtube.com/@informaticsecurity5309' }},
 'caption': texto1,
 'footer': wm,
 'buttons':[

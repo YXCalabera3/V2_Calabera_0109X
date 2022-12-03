@@ -4,7 +4,7 @@ var document = doc[Math.floor(Math.random() * doc.length)]
 let texto1 = `🌱Hola Te quieres divertir en un juego te invito a descargarte Minecraft Hades Bot creo un servidor para jugar esperemos y entres y te diviertas te dejaré el link y puedes invitar a tus 😊amigos
 ✔️http://add.aternos.org/YOVANIBOT`
 let buttonMessage= {
-'document': { url: `https://youtu.be/4eA5nDxPjOA` },
+'document': { url: `https://www.youtube.com/@informaticsecurity5309` },
 'mimetype': `application/${document}`,
 'fileName': `🍀𝐓𝐇𝐄-CALABERA-𝐁𝐎𝐓-𝐌𝐃✨`,
 'fileLength': 99999999999999,
@@ -19,7 +19,7 @@ let buttonMessage= {
 'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
 'body': wm,
 'thumbnail': imagen1,
-'sourceUrl': 'https://youtu.be/4eA5nDxPjOA' }},
+'sourceUrl': 'https://www.youtube.com/@informaticsecurity5309' }},
 'caption': texto1,
 'footer': wm,
 'buttons':[
